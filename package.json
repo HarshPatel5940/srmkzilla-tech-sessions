@@ -1,0 +1,25 @@
+{
+  "name": "srmkzilla-tech-sessions",
+  "version": "1.0.0",
+  "description": "Learning about diffrent things in SRMkzilla Tech sessions",
+  "main": "skip",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshPatel5940/srmkzilla-tech-sessions.git"
+  },
+  "keywords": [
+    "learning",
+    "testing",
+    "javascript",
+    "srmkzilla"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HarshPatel5940/srmkzilla-tech-sessions/issues"
+  },
+  "homepage": "https://github.com/HarshPatel5940/srmkzilla-tech-sessions#readme"
+}
